@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9521d736b96b691478d4faf21bea80b3
+timeCreated: 1491614382
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - menuCamera: {instanceID: 0}
+  - player: {fileID: 1796220310953184, guid: 3f122cab2170c9b4095c1e4b7c4a74b8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

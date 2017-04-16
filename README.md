@@ -1,2 +1,8 @@
-# ForestAmbush
-Project for Advanced Game Development (COMP 476) Concordia University.
+# Summary
+Game created for academic purposes in the context of a Advanced Game Development class at the University of Concordia.
+
+# Members
+* Alexandre Philbert
+* Jefferson Casimir
+* Gabriel Gaudreau
+* Mathieu Harb
