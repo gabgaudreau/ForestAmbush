@@ -6,3 +6,8 @@ Game created for academic purposes in the context of a Advanced Game Development
 * Jefferson Casimir
 * Gabriel Gaudreau
 * Mathieu Harb
+
+# To Play
+
+* Download repo
+* Run the .exe file.
